@@ -1,0 +1,4 @@
+node_modules/
+dist/
+tinkerwish-regist.csv
+.DS_Store

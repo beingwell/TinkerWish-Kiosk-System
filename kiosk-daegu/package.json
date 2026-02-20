@@ -1,0 +1,31 @@
+{
+  "name": "touch-kiosk",
+  "version": "1.0.0",
+  "description": "어린이 등록 시스템",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win --x64",
+    "dist": "electron-builder --win --portable" 
+  },
+  "build": {
+    "appId": "com.tinkerwish.kiosk",
+    "productName": "팅커위시-키오스크",
+    "win": {
+      "target": ["portable"]
+    },
+    "files": [
+      "**/*"
+    ],
+    "directories": {
+      "output": "dist"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.0",
+    "electron-builder": "^24.13.3"
+  }
+}
