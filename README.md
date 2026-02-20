@@ -10,7 +10,7 @@
 - **유효성 검사**: 정규표현식을 사용한 실시간 성함/전화번호 입력 필터링.
 
 ## 🛠 사용 기술
-- **Runtime**: Electron.js
+- **Runtime**: Electron.js, Node.js
 - **Build Tool**: Electron-builder (Windows Portable 버전 지원)
 - **Frontend**: Vanilla JS, HTML5, CSS3 (@media print 최적화)
 
