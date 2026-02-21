@@ -1,8 +1,5 @@
 
 
-
-https://github.com/user-attachments/assets/feb777a9-5ef2-4306-95a4-92bda58c4a8c
-
 <video controls width="100%">
   <source src="https://github.com/user-attachments/assets/feb777a9-5ef2-4306-95a4-92bda58c4a8c" type="video/mp4">
   브라우저가 비디오 태그를 지원하지 않습니다.
