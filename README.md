@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/555a1b43-4663-4fd7-bfde-d61377f10acc
+
+
+
 # 🧚 TinkerWish Kiosk System
 > **Electron 기반 현장 체험객 등록 및 영수증 자동 발행 키오스크**
 
