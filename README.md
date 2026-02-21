@@ -1,5 +1,9 @@
 
-![](https://github.com/user-attachments/assets/feb777a9-5ef2-4306-95a4-92bda58c4a8c)
+
+
+https://github.com/user-attachments/assets/feb777a9-5ef2-4306-95a4-92bda58c4a8c
+
+
 
 
 # 🧚 TinkerWish Kiosk System
